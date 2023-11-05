@@ -1,4 +1,4 @@
-# Movix 
+
 
 ## Overview
 Movix is a web application that allows user to manage their favorite movies. With Movix, you can create a personal movie collection, can see the rating of movies and discover new films. It's the ultimate platform for movie enthusiasts!
